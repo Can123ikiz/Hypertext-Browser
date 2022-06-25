@@ -1,0 +1,4 @@
+[red]it's red[end_red][blue]it's blue[end_blue]
+[red]red text again![end_red] [blue]blue text again![end_blue]
+/*Comments dont appear on the screen*/
+[www.hyperLink.com|link_1.htx]
